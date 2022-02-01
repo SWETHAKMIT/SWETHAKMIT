@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SWETHAKMIT
+- 👋 Hi, I’m @SWETHA
 - 👀 I’m interested in Python 
 - 🌱 I’m currently learning Python for Datascience..
 - 💞️ I’m looking to collaborate on Datascience projects
